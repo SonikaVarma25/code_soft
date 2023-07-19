@@ -14,7 +14,7 @@ function Admin2() {
                         </div>
                         <div className="down-content">
                             <span>Founder</span>
-                            <h4>Ayush Mahagoukar</h4>
+                            <h4>Sonika</h4>
                             <p>Vestibulum id est eu felis vulputate hendrerit. Suspendisse dapibus turpis in dui pulvinar imperdiet. Nunc consectetur.</p>
                             <ul className="social-icons">
                                 <li><a href="https://www.facebook.com/axit.balar.1"><i className="fa fa-facebook"></i></a></li>
@@ -32,7 +32,7 @@ function Admin2() {
                         </div>
                         <div className="down-content">
                             <span>Founder</span>
-                            <h4>Lavanya Choudhri</h4>
+                            <h4>Rohan</h4>
                             <p>Vestibulum id est eu felis vulputate hendrerit. Suspendisse dapibus turpis in dui pulvinar imperdiet. Nunc consectetur.</p>
                             <ul className="social-icons">
                                 <li><a href="https://www.facebook.com/neel.chodvadiya"><i className="fa fa-facebook"></i></a></li>
@@ -50,7 +50,7 @@ function Admin2() {
                         </div>
                         <div className="down-content">
                             <span>Founder</span>
-                            <h4>Apurva Bangali</h4>
+                            <h4>Govind</h4>
                             <p>Vestibulum id est eu felis vulputate hendrerit. Suspendisse dapibus turpis in dui pulvinar imperdiet. Nunc consectetur.</p>
                             <ul className="social-icons">
                                 <li><a href="https://www.facebook.com/rohan.dhanani.315"><i className="fa fa-facebook"></i></a></li>
